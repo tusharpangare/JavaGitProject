@@ -1,0 +1,10 @@
+chek out- switch between versions, branches, tags
+
+undo-
+
+checkout/ restore- unstaged/ uncommited change, file level (private/ public)
+	 - commited change
+
+revert- safe-undo comiited change, commit level, reccommende to use on pubic oand private
+reset- unsafe-undo commited change, commit change, file level and commit level, to be used private 
+
